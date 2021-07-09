@@ -1,0 +1,6 @@
+@import url('./box.css');
+
+body{
+    background-color: #ddd;
+    height: 100%;
+}

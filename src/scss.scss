@@ -1,0 +1,13 @@
+.scss{
+    h3{
+        font-size: 20px;
+        color:#000;
+    }
+    .box{
+        transform: rotate(45deg);
+        height: 200px;
+        width: 200px;
+        margin:100px;
+        background:url('./logo.png') no-repeat
+    }
+}
